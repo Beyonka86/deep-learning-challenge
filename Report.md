@@ -49,11 +49,3 @@ Removing and cleaning neither targets/features within the dataset, trying differ
 
 3.	Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 Within the 3 attempts to get an accuracy of over 75%, I was not able to achieve that result. The higher the number of neurons and the higher number the epochs would have slowed the processor and taken longer to run. I would have added another hidden layer with a lesser number of neurons, lesser number of epochs, and changed the type of activation within the hidden layers this would possible have gotten the accuracy above 75%
-
-"C:\Users\Beyonka\OneDrive\Screenshots\Screenshot 2024-05-21 173920.png"
-
-"C:\Users\Beyonka\OneDrive\Screenshots\Screenshot 2024-05-21 173931.png"
-
-"C:\Users\Beyonka\OneDrive\Screenshots\Screenshot 2024-05-21 174014.png"
-
-"C:\Users\Beyonka\OneDrive\Screenshots\Screenshot 2024-05-21 174047.png"
